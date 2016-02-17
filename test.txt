@@ -1,1 +1,2 @@
 test input
+add a new line in master branch
